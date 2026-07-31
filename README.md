@@ -81,13 +81,13 @@ Latest run covers through 2025 Q2.
 
 ## Known limitations
 
-**No automated tests.** Nothing checks the pipeline's calculations automatically, so mistakes would only show up by running it and checking the output by hand.
+- **No automated tests.** Nothing checks the pipeline's calculations automatically, so mistakes would only show up by running it and checking the output by hand.
 
-**The auto-run feature only works on Mac.** It uses a Mac-specific tool to watch the raw folder and run the pipeline automatically. On Windows or Linux, you'd need to run it manually or set up your own scheduler.
+- **The auto-run feature only works on Mac.** It uses a Mac-specific tool to watch the raw folder and run the pipeline automatically. On Windows or Linux, you'd need to run it manually or set up your own scheduler.
 
-**Processing happens one quarter at a time.** If you add several new quarters at once, they're ingested one after another instead of all at once, so it takes longer the more you add.
+- **Processing happens one quarter at a time.** If you add several new quarters at once, they're ingested one after another instead of all at once, so it takes longer the more you add.
 
-**The AI summary has a fixed length cap.** The Claude API call is limited to 3,000 tokens of output, enough for the current summary length, but not something that can be adjusted without editing the code.
+- **The AI summary has a fixed length cap.** The Claude API call is limited to 3,000 tokens of output, enough for the current summary length, but not something that can be adjusted without editing the code.
 
 ## Future Work
 
