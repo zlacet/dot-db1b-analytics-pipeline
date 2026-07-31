@@ -1,0 +1,14 @@
+# Secrets - never commit the real .env, only .env.example
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+
+# Large raw data (optional - uncomment if you don't want the multi-GB
+# quarterly CSVs tracked in git; keep commented if you do want them versioned)
+# data/raw/*.csv
