@@ -46,10 +46,12 @@ This project replaces that manual process with an automated pipeline: it ingests
 
 You get both reports automatically, no need to run any of those files individually.
 
-## Outputs
+## Sample Output
 
-- Quarterly report
-- Quarterly summary
+Latest run covers through 2025 Q2.
+
+- Quarterly Report (xlsx)
+- Executive Summary (pdf)
 
 ## Database Schema
 
