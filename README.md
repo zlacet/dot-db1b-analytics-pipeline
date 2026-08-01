@@ -115,7 +115,7 @@ The pipeline is not limited to a quarterly cadence or to DB1B data. The same ing
 
 ## Data Source
 
-Dataset: DOT Origin and Destination Survey (DB1B) Market Data. DB1B is a 10% sample of airline tickets, so passenger counts in the data are sample counts, not full totals, useful for relative comparisons like growth % and market share, not absolute passenger volume. Granularity: one record equals one itinerary market observation. Quarters covered: 2024 Q2, 2024 Q3, 2024 Q4, 2025 Q1, 2025 Q2.
+Dataset: DOT Origin and Destination Survey (DB1B) Market Data. DB1B is a 10% sample of airline tickets, so passenger counts in the data are sample counts, not full totals, useful for relative comparisons like growth % and market share. Granularity: one record equals one itinerary market observation. Quarters covered: 2024 Q2, 2024 Q3, 2024 Q4, 2025 Q1, 2025 Q2.
 
 ## Tech stack
 
