@@ -119,4 +119,4 @@ Dataset: DOT Origin and Destination Survey (DB1B) Market Data. DB1B is a 10% sam
 
 ## Tech stack
 
-Python, PostgreSQL, Tableau, Anthropic API (Claude, a large language model).
+Python, PostgreSQL, Tableau, Anthropic API (Claude, a large language model (LLM)).
